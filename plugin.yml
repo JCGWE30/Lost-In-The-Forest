@@ -1,0 +1,46 @@
+name: litfFOREST
+main: com.litf.death.Main
+version: 1.14
+author: Death
+load: STARTUP
+commands:
+  item:
+    usage: /<command>
+    description: item
+  startspawn:
+    usage: /<command>
+    description: startspawn
+  cfgreload:
+    usage: /<command>
+    description: startspawn
+  setdestinycount:
+    usage: /<command>
+    description: setdestinycount
+  ah:
+    usage: /<command>
+    description: ah
+  deliver:
+    usage: /<command>
+    description: deliver
+  deliveries:
+    usage: /<command>
+    description: deliveries
+  setrank:
+    usage: /<command>
+    description: setrank
+  setid:
+    usage: /<command>
+    description: setid
+  refreshspawns:
+    usage: /<command>
+    description: refreshspawns
+  disablelitf:
+    usage: /<command>
+    description: disablelitf
+  debug:
+    usage: /<command>
+    description: debug
+  stats:
+    usage: /<command>
+    description: stats
+
